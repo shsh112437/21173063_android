@@ -23,3 +23,9 @@
 
 
 ## 6주차 과제
+<img width="300" height="500" src="./pic/결과화면1.jpg"></img>
+<img width="300" height="500" src="./pic/결과화면2.jpg"></img>
+<img width="300" height="500" src="./pic/결과화면3.jpg"></img>
+<img width="300" height="500" src="./pic/결과화면4.jpg"></img>
+<img width="300" height="500" src="./pic/소스코드1.jpg"></img>
+<img width="300" height="500" src="./pic/소스코드2.jpg"></img>
