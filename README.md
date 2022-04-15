@@ -6,7 +6,7 @@
 
 
 
-##3주차 과제
+## 3주차 과제
 
 <img width="300" height="500" src="./pic/플랫폼1.png"></img>
 <img width="300" height="500" src="./pic/플랫폼2.png"></img>
