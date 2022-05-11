@@ -32,7 +32,7 @@
 
 
 
-## 6주차 과제
+## 10주차 과제
 <img width="300" height="500" src="./pic/플랫폼결과1.jpg"></img>
 <img width="300" height="500" src="./pic/플랫폼결과2.jpg"></img>
 <img width="300" height="500" src="./pic/플랫폼결과3.jpg"></img>
