@@ -29,3 +29,14 @@
 <img width="300" height="500" src="./pic/결과화면4.jpg"></img>
 <img width="300" height="500" src="./pic/소스코드1.jpg"></img>
 <img width="300" height="500" src="./pic/소스코드2.jpg"></img>
+
+
+
+## 6주차 과제
+<img width="300" height="500" src="./pic/플랫폼결과1.jpg"></img>
+<img width="300" height="500" src="./pic/플랫폼결과2.jpg"></img>
+<img width="300" height="500" src="./pic/플랫폼결과3.jpg"></img>
+<img width="300" height="500" src="./pic/main1.jpg"></img>
+<img width="300" height="500" src="./pic/main2.jpg"></img>
+<img width="300" height="500" src="./pic/menu1.jpg"></img>
+<img width="300" height="500" src="./pic/menu2.jpg"></img>
